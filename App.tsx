@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Role, ProcessedResult } from './types';
-import { processShowData } from './services/geminiService';
+import { processShowData } from './services/apiService';
 import JsonViewer from './components/JsonViewer';
 
 const App: React.FC = () => {

@@ -1,0 +1,5 @@
+{
+  "name": "Wedding Show Processor",
+  "description": "A Gemini-powered tool to parse raw wedding schedule data into structured JSON based on complex MUA and Photographer business rules.",
+  "requestFramePermissions": []
+}
